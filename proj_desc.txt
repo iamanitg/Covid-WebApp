@@ -1,0 +1,1 @@
+Developed a Responsive Website to track worldwide Covid related updated. Used DOMO-API to fetch the real time updates in a graphical format and used Tweepy to iframe a Twitter Bot that posts verified covid 19 related tweets every 20 minutes. Also added a necessary Faq section and option to view covid realated crowd-sourced data requirements.
